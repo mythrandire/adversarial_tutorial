@@ -23,6 +23,6 @@ The notebook can be readily run in Google Colab, but you will need to upload the
 
 ## Acknowledgement
 
-This tutorial is a watered down version of the excellent chapter-wise explanations by Zico Kolter and Aleksander Madry at this [link](https://adversarial-ml-tutorial.org/). I've taken the liberty to pick and choose code snippets to form a more concise and quick tutorial. Therefore, this tutorial serves as a quick introduction to adversarial examples and training to those familiar with optimization theory. For a comprehensive dive into the topic, their chapters provide greater detail and mathematical rigor. 
+This is a watered down version of the excellent chapter-wise explanations by Zico Kolter and Aleksander Madry at this [link](https://adversarial-ml-tutorial.org/). I've taken the liberty to pick and choose code snippets to form a more concise and quick introduction to adversarial examples and training to those familiar with optimization theory. For a comprehensive dive into the topic, their chapters provide greater detail and mathematical rigor. 
 
 I wrote this tutorial for a short lecture on Adversarial Learning as part of the course *ELEN E6040: Neural Networks \& Deep Learning Research* at Columbia University in Spring, 2020. I intend to keep tweaking this project with more interpretations of my own when time allows. 
